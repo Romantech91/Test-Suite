@@ -11,11 +11,10 @@
       "strict": true
     },
     "include": [
-        "**/*.tsx",    
+         
         "**/*.ts",     
-        "**/*.js",    
-        "**/*.jsx",    
-        "../client/src/components/**/*" 
+          
+        
       ]
   }
   
